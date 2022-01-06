@@ -1,0 +1,12 @@
+dic={}
+dic['sonu']=85
+dic['Kartik']=90
+dic['Deepak']=96
+dic['Aman']=76
+dic['Somesh']=60
+dic['Umesh']=85
+dic['Amarpal']=70
+dic['Roshan']=57
+dic['Riyaz']=98
+dic['Shabid']=56
+print(dic)
